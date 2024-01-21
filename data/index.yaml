@@ -1,0 +1,3 @@
+files:
+  - name: weapons_raw.csv
+    source: https://pubg.fandom.com/wiki/Weapon_Stats_for_PLAYERUNKNOWN%27s_BATTLEGROUNDS
