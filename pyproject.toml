@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "babg"
+version = "0.1.0"
+description = "PUBG graphs"
+authors = ["2blo <2blo.dev@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+matplotlib = "^3.8.2"
+pandas = "^2.2.0"
+
+[tool.poetry.group.dev.dependencies]
+python-dotenv = "^1.0.0"
+PyYAML = "^6.0.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
